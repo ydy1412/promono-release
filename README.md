@@ -6,7 +6,7 @@ Public download and update channel for PROMONO.
 
 Download the latest Windows installer zip:
 
-https://github.com/ydy1412/promono-release/releases/latest/download/Promono-Installer-0.3.2-win-x64.zip
+https://github.com/ydy1412/promono-release/releases/latest/download/Promono-Installer-0.3.3-win-x64.zip
 
 After extracting the zip, run:
 
