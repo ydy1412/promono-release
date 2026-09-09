@@ -6,16 +6,16 @@ Public download and update channel for PROMONO.
 
 Download the smaller Windows installer zip when .NET 8 Desktop Runtime is already installed:
 
-https://github.com/ydy1412/promono-release/releases/latest/download/Promono-Installer-Lite-0.3.5-win-x64.zip
+https://github.com/ydy1412/promono-release/releases/latest/download/Promono-Installer-Lite-0.3.6-win-x64.zip
 
 Download the full portable installer zip when .NET 8 Desktop Runtime is not installed:
 
-https://github.com/ydy1412/promono-release/releases/latest/download/Promono-Installer-0.3.5-win-x64.zip
+https://github.com/ydy1412/promono-release/releases/latest/download/Promono-Installer-0.3.6-win-x64.zip
 
 After extracting the zip, run:
 
 ```text
-Promono.Updater/Promono.Updater.exe
+PROMONO.exe
 ```
 
 The updater checks the latest release manifest before launching PROMONO.
