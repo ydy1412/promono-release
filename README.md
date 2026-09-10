@@ -6,14 +6,14 @@ Public download and update channel for PROMONO.
 
 Download the Windows setup executable:
 
-https://github.com/ydy1412/promono-release/releases/latest/download/PROMONO-Setup-0.3.7-win-x64.exe
+https://github.com/ydy1412/promono-release/releases/latest/download/PROMONO-Setup-0.3.8-win-x64.exe
 
 The setup executable downloads the latest full package, installs it under the
 user's local app data folder, creates a desktop shortcut, and starts PROMONO.
 
 Manual zip fallback:
 
-https://github.com/ydy1412/promono-release/releases/latest/download/Promono-Installer-0.3.7-win-x64.zip
+https://github.com/ydy1412/promono-release/releases/latest/download/Promono-Installer-0.3.8-win-x64.zip
 
 After manual extraction, run:
 
