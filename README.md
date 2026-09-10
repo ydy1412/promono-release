@@ -4,15 +4,18 @@ Public download and update channel for PROMONO.
 
 ## Windows Download
 
-Download the smaller Windows installer zip when .NET 8 Desktop Runtime is already installed:
+Download the Windows setup executable:
 
-https://github.com/ydy1412/promono-release/releases/latest/download/Promono-Installer-Lite-0.3.6-win-x64.zip
+https://github.com/ydy1412/promono-release/releases/latest/download/PROMONO-Setup-0.3.7-win-x64.exe
 
-Download the full portable installer zip when .NET 8 Desktop Runtime is not installed:
+The setup executable downloads the latest full package, installs it under the
+user's local app data folder, creates a desktop shortcut, and starts PROMONO.
 
-https://github.com/ydy1412/promono-release/releases/latest/download/Promono-Installer-0.3.6-win-x64.zip
+Manual zip fallback:
 
-After extracting the zip, run:
+https://github.com/ydy1412/promono-release/releases/latest/download/Promono-Installer-0.3.7-win-x64.zip
+
+After manual extraction, run:
 
 ```text
 PROMONO.exe
@@ -30,4 +33,4 @@ https://github.com/ydy1412/promono-release/releases/latest/download/latest-win-x
 
 - Source code is maintained separately in the private PROMONO repository.
 - This repository only hosts public release binaries, manifests, and the download page.
-- Current distribution is portable zip based. MSI or signed installer packaging is not enabled yet.
+- Current distribution uses an unsigned setup executable plus manual zip fallbacks. MSI or signed installer packaging is not enabled yet.
